@@ -1,0 +1,7 @@
+# COMANDOS
+
+# Construir e iniciar los contenedores
+docker-compose up --build
+
+# Ejecutar contenedores en segundo plano
+docker-compose up --build -d
